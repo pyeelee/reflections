@@ -1,0 +1,4 @@
+why need staging area?
+staging area helps you to put what you want to commit on a temperary place.
+remove something from staging area won't remove anything in your work directory.
+
